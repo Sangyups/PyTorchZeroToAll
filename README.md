@@ -6,3 +6,4 @@
 - [lec05](./lec_5.ipynb)
 - [lec06](./lec_6.ipynb)
 - [lec07](./lec_7.ipynb)
+- [lec08](./lec_8.ipynb)
